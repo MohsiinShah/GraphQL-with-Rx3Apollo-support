@@ -1,4 +1,4 @@
-# GraphQL-with-RxJava3-support
+# GraphQL-with-Rx3Apollo-support
 
 This project demonstrates how to consume GraphQL apis using Apollo client with support of RxJava3 in a reactive manner.  
 
